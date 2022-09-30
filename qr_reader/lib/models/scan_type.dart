@@ -1,0 +1,4 @@
+enum ScanType { 
+   geo,
+   http
+}
